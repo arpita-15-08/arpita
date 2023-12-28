@@ -1,3 +1,3 @@
 # arpita
 First git repository
-Author-Aroita Priya
+Author-Arpita Priya
